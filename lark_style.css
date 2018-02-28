@@ -1,0 +1,44 @@
+    .larksubgroup{
+        
+        width: 600px;
+        height: 200px;
+        padding: 10px;
+        display: flex;
+        margin-top: 50px
+        
+        
+    }
+
+   #pleasework{
+       display: flex;
+       
+   }
+   .pleasework{
+    display: flex;
+    
+}
+
+
+    #magictrick{
+        display: flex;
+    }
+  
+    .hummingbird{
+        width: 200px;
+        height:175px;
+    }
+    .theclassiest{
+        /* width: 0px; */
+        background-color: #ff0000;
+    }
+    .abovedove{
+        width: 200px;
+        height:175px;
+    }
+
+    .pleasework li{
+       margin-right: 200px;
+       text-decoration: none;
+       color: blue;
+
+    }
