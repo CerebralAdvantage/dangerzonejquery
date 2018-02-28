@@ -1,0 +1,89 @@
+
+
+#jp_html_button{
+    background-color:#245076;
+    color:white;
+
+}
+
+#jp_attr_button{
+	background-color:#245076;
+}
+
+#jp_val_button{
+	background-color:#245076;
+}
+
+#jp_text_button{
+	background-color:#245076;
+}
+
+#jp_data_button{
+	background-color:#245076;
+}
+
+#bullfrog_wrapper{
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    margin:50px;
+    font-size:20px;
+    font-family: 'Josefin Sans', sans-serif;
+}  
+
+
+#bullfrog_wrapper img{
+
+    height: 350px;
+    width: 600px;
+    
+} 
+
+#jp_sidepanel{
+
+    height:400px;
+    width:200px;
+    border: 1px solid black;
+    
+}
+
+#jp_sidepanel ul{
+
+    text-align:center;
+
+}
+
+#jp_sidepanel li{
+    display: inline-block;
+    /*background:blue;*/
+}
+
+#jp_sidepanel button{
+
+    height:30px;
+    width:150px;
+    margin: 10px;
+    border-radius:5px;
+    color:white;
+    background-color:#245076;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:17px;
+}
+
+#jp_sidepanel input{
+
+    height:30px;
+    width:150px;
+    margin: 10px;
+    border-radius:5px;
+    background:white;
+    color:#6099a1;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:20px;
+}
+
+#jp_font_wrapper h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+

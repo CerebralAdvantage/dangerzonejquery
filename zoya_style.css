@@ -1,0 +1,17 @@
+
+    .btn-1, .btn-2, .btn-3,.btn-4,.btn-5{
+    margin-left:20px;
+    color: white;
+    background-color:#245076;
+    font-weight:bold;
+    float: right;
+    vertical-align: middle;
+    padding: 10px 50px;
+    font-size: 15px;
+    border-radius: 8px;
+    }
+
+    .ninja{
+        margin-left: 100px;
+    }
+
